@@ -33,10 +33,12 @@ Users can enter a topic, and the AI generates an original poem in real time.
 
 ```
 AI-Poet/
-│── main.py
-│── requirements.txt
-│── .env
-│── .gitignore
+├── images/
+│   └── preview.png
+├── main.py
+├── requirements.txt
+├── .env
+├── .gitignore
 └── README.md
 ```
 
